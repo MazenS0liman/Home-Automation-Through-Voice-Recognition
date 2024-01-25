@@ -14,8 +14,9 @@ The user can open/close the window shutter (motor) by making a specific gesture 
 ![System Chart](images/System_Chart.jpg) \
 ![System State Chart](images/System_State_Chart.jpg)
 
-## Images
-![Project](images/Project.jpeg) \
+## [Project preview 📹](https://drive.google.com/file/d/1UtFz0XvRaVgWGBmiotirldc-6TzfpG4_/view?usp=sharing)
+
+## Poster
+![Poster](images/Poster.jpeg) \
 ![Certificate](images/Certificate.jpeg)
 
-## [Check out project preview 📹](https://drive.google.com/file/d/1UtFz0XvRaVgWGBmiotirldc-6TzfpG4_/view?usp=sharing)
