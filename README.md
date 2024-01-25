@@ -17,6 +17,8 @@ The user can open/close the window shutter (motor) by making a specific gesture 
 ## [Project preview 📹](https://drive.google.com/file/d/1UtFz0XvRaVgWGBmiotirldc-6TzfpG4_/view?usp=sharing)
 
 ## Poster
-![Poster](images/Poster.jpeg) \
+![Poster](images/Poster.jpeg)
+
+## Certificate
 ![Certificate](images/Certificate.jpeg)
 
