@@ -11,10 +11,11 @@ song to facilitate a soothing atmosphere.
 The user can open/close the window shutter (motor) by making a specific gesture (infrared sensor). 
 
 ## State Chart
-
+![System Chart](images/System_Chart.jpg) \
+![System State Chart](images/System_State_Chart.jpg)
 
 ## Images
-![Project](image/Certificate.png) \
-![Certificate](image/Certificate.png)
+![Project](images/Project.jpeg) \
+![Certificate](images/Certificate.jpeg)
 
 ## [Check out project preview 📹](https://drive.google.com/file/d/1UtFz0XvRaVgWGBmiotirldc-6TzfpG4_/view?usp=sharing)
