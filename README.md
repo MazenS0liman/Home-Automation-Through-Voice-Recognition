@@ -19,6 +19,3 @@ The user can open/close the window shutter (motor) by making a specific gesture 
 ## Poster
 ![Poster](images/Poster.jpeg)
 
-## Certificate
-![Certificate](images/Certificate.jpeg)
-
